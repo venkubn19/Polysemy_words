@@ -6,8 +6,8 @@ from nltk.stem import PorterStemmer
 import random
 
 
-app_id = '105b78d5'
-app_key = '661f31abb8ca754c30863b20fe7b27a7'
+app_id = ''
+app_key = ''
 language = 'en'
 text=input()
 filt_sent=[]
